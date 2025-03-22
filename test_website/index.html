@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Website with Issues</title>
+    <!-- Missing meta description -->
+    <style>
+        /* Intentionally inefficient CSS */
+        body { font-family: Arial, sans-serif; }
+        .container { width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .header { background-color: #f0f0f0; padding: 20px; }
+        .content { margin-top: 20px; }
+        .image-container { display: flex; flex-wrap: wrap; gap: 20px; }
+        .image-container img { width: 300px; height: 200px; object-fit: cover; }
+        /* Duplicate styles */
+        .header { background-color: #f0f0f0; padding: 20px; }
+        .content { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <!-- Duplicate H1 tags -->
+    <h1>Main Title</h1>
+    <h1>Another Main Title</h1>
+
+    <div class="container">
+        <div class="header">
+            <h2>Welcome to Our Test Site</h2>
+        </div>
+
+        <div class="content">
+            <!-- Empty paragraphs -->
+            <p></p>
+            <p></p>
+
+            <!-- Missing alt text -->
+            <div class="image-container">
+                <img src="https://picsum.photos/300/200" />
+                <img src="https://picsum.photos/300/200" />
+                <img src="https://picsum.photos/300/200" />
+            </div>
+
+            <!-- Broken links -->
+            <p>Check out our <a href="nonexistent.html">broken link</a></p>
+            <p>Another <a href="https://this-is-not-a-real-url.com">broken external link</a></p>
+
+            <!-- Poor content structure -->
+            <div>
+                <h3>Section 1</h3>
+                <p>This is a poorly structured section with no semantic HTML.</p>
+            </div>
+
+            <!-- Accessibility issues -->
+            <button style="color: #ffffff; background-color: #ffffff;">Invisible button</button>
+            <div role="button" tabindex="0">Non-semantic button</div>
+
+            <!-- Performance issues -->
+            <script>
+                // Intentionally inefficient JavaScript
+                for(let i = 0; i < 1000000; i++) {
+                    console.log(i);
+                }
+            </script>
+        </div>
+    </div>
+</body>
+</html> 
