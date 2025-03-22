@@ -1,8 +1,9 @@
 # WebMaintX: AI-Powered Webpage Maintenance Agent 🚀
 
-![WebMaintX Banner](https://via.placeholder.com/1200x400?text=WebMaintX+AI+Agent)
 
-[![Demo Video](https://img.shields.io/badge/Demo-Watch-blue?style=for-the-badge)]([path/to/demo.mp4](https://drive.google.com/file/d/1-H31Q1cWN2hL2uiLSCcxaNDCEOqqyZUj/view?usp=sharing))
+![WebMaintX Banner](https://cdn-icons-png.freepik.com/256/3398/3398562.png?ga=GA1.1.925462502.1738307177&semt=ais_hybrid)
+
+[![Demo Video](https://img.shields.io/badge/Demo-Watch-blue?style=for-the-badge)](https://drive.google.com/file/d/1-H31Q1cWN2hL2uiLSCcxaNDCEOqqyZUj/view?usp=sharing)
 
 
 ---
@@ -115,7 +116,7 @@ webmaintx/
 ![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)
 ![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
 
-🎥 **Watch the Demo Video:** [Click Here](path/to/demo.mp4)
+🎥 **Watch the Demo Video:** [Click Here](https://drive.google.com/file/d/1-H31Q1cWN2hL2uiLSCcxaNDCEOqqyZUj/view?usp=sharing)
 
 ---
 
