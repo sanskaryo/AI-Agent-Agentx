@@ -113,10 +113,11 @@ webmaintx/
 
 ## 📸 Screenshots & Demo
 
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
+![Screenshot 1](https://github.com/sanskaryo/AI-Agent-Agentx/blob/main/Screenshot%202025-03-28%20105309.png)
+![Screenshot 2](https://github.com/sanskaryo/AI-Agent-Agentx/blob/main/WhatsApp%20Image%202025-03-22%20at%2019.57.11_40b3d072.jpg)
 
-🎥 **Watch the Demo Video:** [Click Here](https://drive.google.com/file/d/1-H31Q1cWN2hL2uiLSCcxaNDCEOqqyZUj/view?usp=sharing)
+# 🎥 Watch the Demo Video: [Click Here](https://drive.google.com/file/d/1-H31Q1cWN2hL2uiLSCcxaNDCEOqqyZUj/view?usp=sharing)
+
 
 ---
 
